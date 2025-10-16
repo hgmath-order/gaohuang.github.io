@@ -9,6 +9,19 @@ redirect_from:
 About Me
 ======
 
+Hi! I’m Gao Huang, a fifth-year Ph.D. student in mathematics at the [School of Mathematical Sciences](http://www.math.zju.edu.cn), [Zhejiang University](https://www.zju.edu.cn), under the supervision of Professor [Song Li](https://person.zju.edu.cn/0096094/0.html).
+I am currently also a visiting Ph.D. student at the [Department of Mathematics](https://ww3.math.ucla.edu/), [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), advised by Professor [Deanna Needell](https://www.math.ucla.edu/~deanna/).
+Before that, I obtained my bachelor’s degree in mathematics from the [Chu Kochen Honors College](http://ckc.zju.edu.cn), [Zhejiang University](https://www.zju.edu.cn), in 2021.
+I’m interested in Mathematical Data Science, Applied Harmonic Analysis, Random Matrices and Empirical Processes. 
+More precisely, my research focuses on applying probabilistic tools to understand and solve problems in data science and applied harmonic analysis, such as phase retrieval and low-rank matrix recovery. 
+I am broadly interested in various areas of probability and their applications, including sparse random graphs, non-commutative concentration inequalities, and covariance matrix estimation. 
+Additionally, I am interested in theoretical aspects of machine learning, including matrix completion, robust statistics, and the theory of neural networks.
+
+**I am actively seeking a postdoctoral opportunity.**
+
+If my research direction aligns with your group’s work or you have any question, I would be delighted to hear from you. 
+I can be reached at hgmath@zju.edu.cn.
+
 Preprints
 ======
 + [Stable Phase Retrieval: Optimal Rates in Poisson and Heavy-Tailed Models.](https://arxiv.org/abs/2510.00551) <br>
