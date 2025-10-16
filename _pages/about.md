@@ -9,3 +9,15 @@ redirect_from:
 
 About Me
 ======
+
+Publications
+======
+
+Teaching
+======
+
+Honors
+======
+
+Talk
+======
