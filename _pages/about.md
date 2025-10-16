@@ -17,7 +17,7 @@ Additionally, I am interested in theoretical aspects of machine learning, includ
 **I am actively seeking a postdoctoral opportunity.**
 
 If my research direction aligns with your group’s work or you have any question, I would be delighted to hear from you. 
-I can be reached at hgmath@zju.edu.cn.
+I can be reached at *hgmath@zju.edu.cn*.
 
 Preprints
 ======
