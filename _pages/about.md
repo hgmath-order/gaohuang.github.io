@@ -12,7 +12,7 @@ Before that, I obtained my bachelor’s degree in mathematics from the [Chu Koch
 I’m interested in mathematical data science, applied harmonic analysis, probability. 
 More specifically, my research focuses on applying probabilistic tools, such as random matrices and empirical processes, to understand the problems in data science and applied harmonic analysis, including phase retrieval and low-rank matrix recovery. 
 I am broadly interested in various areas of probability and their applications, including sparse random graphs, non-commutative concentration inequalities, and covariance matrix estimation. 
-Additionally, I am interested in theoretical aspects of machine learning, including matrix completion, robust statistics, and the theory of neural networks.
+Additionally, I am interested in theoretical aspects of machine learning, including matrix completion, synchronization, robust statistics, and the theory of neural networks.
 
 **I am actively seeking a postdoctoral opportunity.**
 
