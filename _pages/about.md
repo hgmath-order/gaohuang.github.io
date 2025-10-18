@@ -19,11 +19,6 @@ Additionally, I am interested in theoretical aspects of machine learning, includ
 If my research direction aligns with your group’s work or you have any question, I would be delighted to hear from you. 
 I can be reached at *hgmath@zju.edu.cn*.
 
-Preprints
-======
-+ [Stable Phase Retrieval: Optimal Rates in Poisson and Heavy-Tailed Models.](https://arxiv.org/abs/2510.00551) <br>
- **Gao Huang**, Song Li, Deanna Needell.
-
 Publications
 ======
 + [Robust Outlier Bound Condition to Phase Retrieval with Adversarial Sparse Outliers.](https://arxiv.org/abs/2311.13219)<br>
@@ -36,6 +31,10 @@ Publications
  **Gao Huang**, Song Li.<br>
  *IEEE Transactions on Information Theory (2025).*
 
+Preprints
+======
++ [Stable Phase Retrieval: Optimal Rates in Poisson and Heavy-Tailed Models.](https://arxiv.org/abs/2510.00551) <br>
+ **Gao Huang**, Song Li, Deanna Needell.
 
 Honors
 ======
@@ -45,5 +44,4 @@ Honors
 
 Talks
 ======
-+ *Workshop on Compressed Sensing Theory and Related Areas, Hangzhou, China, November 5–7, 2025.*
 + *Foundations of Mathematics in Data Science Conference, Hangzhou, China, May 16–19, 2025.*
