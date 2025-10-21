@@ -6,8 +6,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Gao Huang, a fifth-year Ph.D. student in mathematics at the [School of Mathematical Sciences](http://www.math.zju.edu.cn), [Zhejiang University](https://www.zju.edu.cn), under the supervision of Professor [Song Li](https://person.zju.edu.cn/0096094/0.html).
-I am currently also a visiting Ph.D. student at the [Department of Mathematics](https://ww3.math.ucla.edu/), [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), advised by Professor [Deanna Needell](https://www.math.ucla.edu/~deanna/).
+Hi! I’m Gao Huang, a fifth-year Ph.D. student in mathematics at the [School of Mathematical Sciences](http://www.math.zju.edu.cn), [Zhejiang University](https://www.zju.edu.cn), advised by Professor [Song Li](https://person.zju.edu.cn/0096094/0.html).
+I am currently also a visiting Ph.D. student at the [Department of Mathematics](https://ww3.math.ucla.edu/), [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), hosted by Professor [Deanna Needell](https://www.math.ucla.edu/~deanna/).
 Before that, I obtained my bachelor’s degree in mathematics from the [Chu Kochen Honors College](http://ckc.zju.edu.cn), [Zhejiang University](https://www.zju.edu.cn), in 2021.
 I’m interested in mathematical data science, applied harmonic analysis, probability. 
 More specifically, my research focuses on applying probabilistic tools, such as random matrices and empirical processes, to understand the problems in data science and applied harmonic analysis, including phase retrieval and low-rank matrix recovery. 
