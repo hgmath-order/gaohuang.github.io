@@ -21,7 +21,7 @@ I can be reached at *hgmath@zju.edu.cn*.
 
 Publications
 ======
-+ [Robust Outlier Bound Condition to Phase Retrieval with Adversarial Sparse Outliers.]((https://doi.org/10.1016/j.acha.2025.101819))<br>
++ [Robust Outlier Bound Condition to Phase Retrieval with Adversarial Sparse Outliers.](https://doi.org/10.1016/j.acha.2025.101819)<br>
 **Gao Huang**, Song Li, Hang Xu.<br>
 *Applied and Computational Harmonic Analysis*, to appear, 2026.
 + [Adversarial Phase Retrieval via Nonlinear Least Absolute Deviation.](https://ieeexplore.ieee.org/abstract/document/11080096?casa_token=Zmfa1agP12YAAAAA:IIhlaz0nXCyuyjPD17jmtoJ-YSBK-zMyrBZc5YGdxpgHVwfugzGRJPNjRC12Cqka3l634hW4ceM)<br>
