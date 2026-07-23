@@ -12,8 +12,8 @@ From December 2024 to April 2026, I was a visiting Ph.D. student in the [Departm
 Before that, I obtained my bachelor’s degree in mathematics from the [Chu Kochen Honors College](http://ckc.zju.edu.cn), [Zhejiang University](https://www.zju.edu.cn), in 2021.
 
 My research interests lie in mathematical data science, applied harmonic analysis, and probability.
-More specifically, my research focuses on applying probabilistic tools, such as random matrices and empirical processes, to understand the problems in data science and applied harmonic analysis, including phase retrieval and low-rank matrix recovery. 
-I am broadly interested in various areas of probability and their applications, including generic chaining, sparse random graphs, non-commutative concentration inequalities, and covariance matrix estimation. 
+More specifically, my research focuses on applying probabilistic tools, such as random matrices and empirical processes, to understand the problems in data science and applied harmonic analysis. 
+I am broadly interested in various areas of probability and their applications, including generic chaining, sparse random graphs, non-commutative concentration inequalities, phase retrieval, low-rank matrix recovery and covariance matrix estimation. 
 Additionally, I am interested in theoretical aspects of machine learning, including matrix completion, synchronization, robust statistics, and the theory of neural networks, and AI for mathematics.
 
 If my research direction aligns with your group’s work or you have any question, I would be delighted to hear from you. 
