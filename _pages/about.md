@@ -6,14 +6,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Gao Huang, a fifth-year Ph.D. student in mathematics at the [School of Mathematical Sciences](http://www.math.zju.edu.cn), [Zhejiang University](https://www.zju.edu.cn), advised by Professor [Song Li](https://person.zju.edu.cn/0096094/0.html).
-I am currently also a visiting Ph.D. student at the [Department of Mathematics](https://ww3.math.ucla.edu/), [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), hosted by Professor [Deanna Needell](https://www.math.ucla.edu/~deanna/).
-I will soon join the [Department of Mathematics](https://www.math.nus.edu.sg/) at the [National University of Singapore (NUS)](https://www.nus.edu.sg/) as a Research Fellow, working with Professor [Daniel Bartl](https://sites.google.com/site/danielbartlmath/).
+Hi! I’m Gao Huang. I will soon join the [Department of Mathematics](https://www.math.nus.edu.sg/) at the [National University of Singapore (NUS)](https://www.nus.edu.sg/) as a Research Fellow, working with Professor [Daniel Bartl](https://sites.google.com/site/danielbartlmath/).
+I recently received my Ph.D. in mathematics from the [School of Mathematical Sciences](http://www.math.zju.edu.cn), [Zhejiang University](https://www.zju.edu.cn), advised by Professor [Song Li](https://person.zju.edu.cn/0096094/0.html).
+From December 2024 to April 2026, I was a visiting Ph.D. student in the [Department of Mathematics](https://ww3.math.ucla.edu/), [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), hosted by Professor [Deanna Needell](https://www.math.ucla.edu/~deanna/).
 Before that, I obtained my bachelor’s degree in mathematics from the [Chu Kochen Honors College](http://ckc.zju.edu.cn), [Zhejiang University](https://www.zju.edu.cn), in 2021.
-I’m interested in mathematical data science, applied harmonic analysis, probability. 
+
+My research interests lie in mathematical data science, applied harmonic analysis, and probability.
 More specifically, my research focuses on applying probabilistic tools, such as random matrices and empirical processes, to understand the problems in data science and applied harmonic analysis, including phase retrieval and low-rank matrix recovery. 
 I am broadly interested in various areas of probability and their applications, including generic chaining, sparse random graphs, non-commutative concentration inequalities, and covariance matrix estimation. 
-Additionally, I am interested in theoretical aspects of machine learning, including matrix completion, synchronization, robust statistics, and the theory of neural networks.
+Additionally, I am interested in theoretical aspects of machine learning, including matrix completion, synchronization, robust statistics, and the theory of neural networks, and AI for mathematics.
 
 If my research direction aligns with your group’s work or you have any question, I would be delighted to hear from you. 
 I can be reached at *hgmath@zju.edu.cn*.
